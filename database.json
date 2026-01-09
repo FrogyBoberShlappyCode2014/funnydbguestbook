@@ -1,14 +1,50 @@
 [
 {
-"id": "entry_001",
-"sender": "Оскар Шлапінський",
-"date": "2026-01-09 18:30",
+"id": "epoch_init_000",
+"sender": "user",
+"date": "1970-01-01 00:00:00",
 "status": "active",
-"rating": "МАКСИМАЛЬНО",
-"message": "База даних активована. ПП ІА ТБ-КВАК розпочинає трансляцію з вулиці Шевченка, 16!",
+"rating": "EPOCH_START",
+"message": "Вітання з початку часів! ПП ІА ТБ-КВАК тепер за межами простору і часу.",
 "metadata": {
-"location": "Netishyn",
-"style": "official"
+"location": "Origin",
+"vibe": "vintage-zero"
+}
+},
+{
+"id": "epoch_msg_001",
+"sender": "user1",
+"date": "1970-01-01 00:00:01",
+"status": "active",
+"rating": "CLASSIC",
+"message": "Ква-ква! Це перше вітання у нульовій секунді. Оскар Вадимович — геній епохи!",
+"metadata": {
+"location": "Unix_Zone",
+"vibe": "pioneer"
+}
+},
+{
+"id": "epoch_msg_002",
+"sender": "user2",
+"date": "1970-01-01 00:00:02",
+"status": "active",
+"rating": "COOL",
+"message": "Гризь-гризь! Бобробайти на зв'язку. Вітаю всіх з початком цифрового всесвіту.",
+"metadata": {
+"location": "Netishyn_Retro",
+"vibe": "shlappy-style"
+}
+},
+{
+"id": "epoch_msg_003",
+"sender": "user3",
+"date": "1970-01-01 00:00:03",
+"status": "active",
+"rating": "ULTRA",
+"message": "Фіолетовий стиль 1970 року виглядає так само круто, як і у 2013-му!",
+"metadata": {
+"location": "Purple_Void",
+"vibe": "eternal-purple"
 }
 }
 ]
