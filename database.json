@@ -1,50 +1,67 @@
 [
 {
-"id": "epoch_init_000",
+"id": "epoch_0",
 "sender": "user",
 "date": "1970-01-01 00:00:00",
 "status": "active",
-"rating": "EPOCH_START",
-"message": "Вітання з початку часів! ПП ІА ТБ-КВАК тепер за межами простору і часу.",
+"rating": "EPOCH_ZERO",
+"message": "Вітання! Це нульова точка ТБ-КВАК. База даних активована і транслює вайб 1970 року на вулицю Шевченка, 16!",
 "metadata": {
 "location": "Origin",
-"vibe": "vintage-zero"
+"auto_fetch": true,
+"source": "web-portal"
 }
 },
 {
-"id": "epoch_msg_001",
+"id": "epoch_1",
 "sender": "user1",
-"date": "1970-01-01 00:00:01",
+"date": "1970-01-01 00:00:00",
 "status": "active",
-"rating": "CLASSIC",
-"message": "Ква-ква! Це перше вітання у нульовій секунді. Оскар Вадимович — геній епохи!",
+"rating": "VINTAGE",
+"message": "Ква-ква! Я user1, і я тут, щоб підтвердити: автопідтяг працює! Оскар Вадимович — майстер гіперпосилань!",
 "metadata": {
-"location": "Unix_Zone",
-"vibe": "pioneer"
+"location": "Netishyn_Sector_7",
+"auto_fetch": true,
+"source": "web-portal"
 }
 },
 {
-"id": "epoch_msg_002",
+"id": "epoch_2",
 "sender": "user2",
-"date": "1970-01-01 00:00:02",
+"date": "1970-01-01 00:00:00",
 "status": "active",
-"rating": "COOL",
-"message": "Гризь-гризь! Бобробайти на зв'язку. Вітаю всіх з початком цифрового всесвіту.",
+"rating": "BOBR_VIBE",
+"message": "Гризь-гризь! Я user2. Вітаю всіх бобробайтів! Наша база росте сама по собі!",
 "metadata": {
-"location": "Netishyn_Retro",
-"vibe": "shlappy-style"
+"location": "Bober_Bunker",
+"auto_fetch": true,
+"source": "web-portal"
 }
 },
 {
-"id": "epoch_msg_003",
+"id": "epoch_3",
 "sender": "user3",
-"date": "1970-01-01 00:00:03",
+"date": "1970-01-01 00:00:00",
 "status": "active",
-"rating": "ULTRA",
-"message": "Фіолетовий стиль 1970 року виглядає так само круто, як і у 2013-му!",
+"rating": "PURPLE",
+"message": "Я user3. Фіолетовий стиль 1970 року активований. Система ТБ-КВАК у повному порядку.",
 "metadata": {
-"location": "Purple_Void",
-"vibe": "eternal-purple"
+"location": "Purple_Studio",
+"auto_fetch": true,
+"source": "web-portal"
+}
+},
+{
+"id": "web_sync_template",
+"sender": "system_bridge",
+"date": "1970-01-01 00:00:00",
+"status": "listening",
+"rating": "SYNC",
+"message": "[ОЧІКУВАННЯ НОВИХ ПОВІДОМЛЕНЬ З САЙТУ ЛУКИ...]",
+"metadata": {
+"location": "GitHub_API_Gateway",
+"auto_fetch": true,
+"source": "bridge-v1"
 }
 }
 ]
